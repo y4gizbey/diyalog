@@ -205,9 +205,9 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 ## 🧑‍💻 Geliştirici
 
-- **Kullanıcı adı:** y4gizbey
+- **Kullanıcı adı:** [y4gizbey](https://github.com/y4gizbey)
 - **İsim:** Yağız Efe AĞCAHAN
-- **Kullanıcı adı:** Sefflex
+- **Kullanıcı adı:** [Sefflex](https://github.com/Sefflex)
 - **İsim:** Rahmi Çınar SARİ
 
 Bu proje; deneye deneye, bozula bozula,
@@ -234,4 +234,5 @@ Gerisi:
 - Senin hayal gücün
 - Senin disiplinin
 - Senin cesaretin
+
 
