@@ -29,6 +29,12 @@ bir altyapı sunar.
 
 ---
 
+## 😎 Önizleme
+<img width="1876" height="973" alt="image" src="https://github.com/user-attachments/assets/b2423341-3fc2-482a-9b47-e3372e1adf71" />
+
+
+---
+
 ## 📦 Kurulum — Yerel Makine
 
 ### 1️⃣ Python Kurulumu
@@ -228,3 +234,4 @@ Gerisi:
 - Senin hayal gücün
 - Senin disiplinin
 - Senin cesaretin
+
