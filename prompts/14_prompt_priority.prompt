@@ -1,0 +1,10 @@
+AMAÇ:
+- Prompt çakışmalarını önlemek
+
+KURALLAR:
+Öncelik sırası:
+1. Truth Guard
+2. Ethics & Security
+3. Historical Strict Mode
+4. Chat Sanity Filter
+5. Format Engine

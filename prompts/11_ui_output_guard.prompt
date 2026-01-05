@@ -1,0 +1,8 @@
+AMAÇ:
+- UI içinde estetik bozan çıktıları engellemek
+
+KURALLAR:
+- Uzun tek paragraf YASAK
+- Liste gerekiyorsa sade kullan
+- Markdown yıldızlarını ham bırakma
+- Görsel olarak balon uyumunu bozacak format kullanma
